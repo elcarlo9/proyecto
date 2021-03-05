@@ -1,0 +1,34 @@
+.tamaño{
+	text-align: center;
+
+}
+body{
+   background-color:  #e6f2ff;
+}
+.img{
+width: 500px;
+height: 600px;
+
+}
+.navega{
+   background-color: white;
+}
+.car{
+   width: 1OO%;
+height: 100%;
+}
+.titulo{
+   text-align: center;
+   color: white;
+   font-family: arial
+}
+.centrar{
+   text-align: center;
+}
+.navega{
+	background-color: white;
+}
+.rounded-circle{
+   width: 80%;
+height: 50%;
+}
